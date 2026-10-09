@@ -1,0 +1,13 @@
+[project]
+name = "text-mining"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "ipykernel>=7.4.0",
+    "matplotlib>=3.11.2",
+    "morfeusz2>=1.99.15",
+    "nltk>=3.10.3",
+    "pandas>=3.0.6",
+    "scikit-learn>=1.9.1",
+    "wordcloud>=1.9.6",
+]
